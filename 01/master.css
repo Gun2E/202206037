@@ -1,0 +1,596 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    
+
+}
+
+
+.logo{
+    position: absolute;
+    top: 75px;
+    left: 100px;
+    border: px red solid;
+}
+
+
+.cont{
+    border: px red solid;
+    overflow: hidden;
+    width: 1920px;
+    height: 1080px;
+
+}
+
+.img{
+      width: 912px;
+      height: 738px;  
+    border: px red solid;
+    margin-top: 230px;
+    margin-left: 900px;
+
+
+}
+.txt00_01{
+    width: 608px;
+    height: 182px;
+    position: absolute;
+    left: 100px;
+    border: px red solid;
+    top: 200px;
+    font-size: 70px;
+    font-family: 'Pretendard-Regular';
+    font-weight: 900;
+    line-height: 98px;
+
+    
+}
+
+.txt00_02{
+width: 540px;
+height: 111px;
+font-size: 20px;
+position: absolute;
+top: 485px;
+left: 100px;
+font-family: 'Pretendard-Regular';
+font-weight: 400;
+line-height: 30px;
+color: #3C434D;
+
+
+}
+.bt01{
+    position: absolute;
+    left: 100px;
+    top: 657px;
+}
+.bt02{
+    position: absolute;
+    left: 320px;
+    top: 657px;
+}
+
+
+
+.m01{
+    position: absolute;
+    top: 91px;
+    left: 1263px;
+}
+
+.m02{
+    position: absolute;
+    top: 91px;
+    left: 1509px;
+}
+
+.m03{
+    position: absolute;
+    top: 91px;
+    left: 1650px;
+}
+
+
+/*sub01 시작 */
+
+.wrap02{
+    width: 1920px;
+    height: 100%;
+    border: px red solid;
+}
+
+.m01_01{
+    position: absolute;
+    top: 91px;
+    left: 1263px;
+}
+
+.m01_02{
+    position: absolute;
+    top: 91px;
+    left: 1509px;
+}
+
+.m01_03{
+    position: absolute;
+    top: 91px;
+    left: 1650px;
+}
+.js01{
+    width: 662px;
+    height: 833px;
+    margin-top: 245px;
+    margin-left: 1053px;
+}
+
+.sq{
+width: 1339px;
+height: 257px;
+top: 533px;
+left: 0px;
+position: absolute;
+}
+.js02{
+    width: 1696px;
+    height: 358px;
+    top: 770px;
+    left: 205px; 
+    position: absolute;
+}
+
+.txt01_01{
+width: 956px;
+height: 228px;
+position: absolute;
+top: 477px;
+left: 257px;
+font-size: 90px;
+font-family: 'Pretendard-Regular';
+font-weight: 700;
+line-height: 122px;
+}
+.txt01_02{
+    font-size: 40px;
+    font-family: 'Pretendard-Regular';
+    font-weight: 800;
+    width: 287px;
+    height: 48px;
+    position: absolute;
+    left: 257px;
+    top: 742px;
+    
+
+}
+
+
+
+.A{
+  margin-top: 280px;
+  margin-left: 205px;
+  width: 452px;
+  height: 96px;  
+}
+.sq02{
+    width: 1496px;
+    height: 956px;
+    margin-top: 416px;
+    margin-left: 424px;
+}
+
+
+
+.js03{
+    width: 680px;
+    height: 1021px;
+    left: 205px;
+    top: 1691px;
+    position: absolute;
+}
+
+.txt01_03{
+    width: 757px;
+    height: 892px;
+    position: absolute;
+    top: 1691px;
+    left: 960px;
+    font-size: 35px;
+    font-family: 'Pretendard-Regular';
+    color: #3C434D;
+    font-weight: 100;
+    line-height: 50px;
+
+}
+.sq03{
+    width: 1920px;
+    height: 720px;
+    margin-top: 600px;
+
+}
+
+.txt01_04{
+    width: 588px;
+    height: 742px;
+    position: absolute;
+   top: 3563px;
+    left: 205px;
+    font-size: 35px;
+    font-family: 'Pretendard-Regular';
+    color: #3C434D;
+    font-weight: 100;
+    line-height: 50px;
+
+}
+.js05{
+    width: 1420px;
+    height: 176px;
+    position: absolute;
+    left: 0px;
+    top: 4579px;
+}
+
+.js04{
+    width: 848px;
+    height: 1273px;
+    position: absolute;
+    left: 868px;
+    top: 3563px;
+}
+.js99{
+    width: 1920px;
+    height: 245px;
+    margin-top: 1500px;
+}
+
+
+/* sub2 시작 */
+
+.m02_01{
+    position: absolute;
+    top: 91px;
+    left: 1263px;
+}
+
+.m02_02{
+    position: absolute;
+    top: 91px;
+    left: 1509px;
+}
+
+.m02_03{
+    position: absolute;
+    top: 91px;
+    left: 1650px;
+}
+
+.top{
+    position: absolute;
+    left: 1616px;
+    top: 938px;
+    position: fixed;
+    scroll-behavior: smooth;
+
+}
+.p02sq02{
+position: absolute;
+    top: 1963px;
+    left: 544px;
+}
+
+.p02sq03{
+position: absolute;
+top: 4014px;
+left: 0px;
+}
+
+.p02js04{
+position: absolute;
+top: 5900px;
+left: 511px;
+}
+
+.p02js01{
+    width: 1108px;
+    height: 826px;
+    position: absolute;
+    top: 256px;
+    left: 202px;
+}
+.p02js02{
+    position: absolute;
+    top: 778px;
+    left: 1021px;
+}
+.p02sq01
+{
+    position: absolute;
+    top: 834px;
+    left: 575px;
+}
+.p02js03{
+    
+    position: absolute;
+    top: 1366px;
+    left: 205px;
+
+}
+.wark01{
+    position: absolute;
+top: 1620px;
+left: 205px;
+}
+.wark02{
+    position: absolute;
+    top: 1620px;
+    left: 750px;
+    
+}
+
+.wark03{
+    position: absolute;
+    top: 1620px;
+    left: 1227px;
+}
+
+.wark04{
+    position: absolute;
+    top: 2518px;
+    left: 205px;
+}
+
+.wark05{
+    position: absolute;
+    top: 2518px;
+    left: 753px;
+}
+
+.wark06{
+    position: absolute; 
+    top: 2518px;
+    left: 1223px;
+}
+.wark07{
+    position: absolute;
+    top: 3819px;
+    left: 205px;
+}
+.wark08{
+    position: absolute;
+    top: 3819px;
+    left: 750px;
+}
+.wark09{
+    position: absolute;
+    top: 3819px;
+    left: 1220px;
+}
+.wark10{
+    position: absolute;
+    top: 5052px;
+    left: 205px;
+}
+.wark11{
+    position: absolute;
+
+top: 5052px;
+left: 975px;
+}
+.p02js99{
+    position: absolute;
+    top: 6844px;
+}
+
+.wbt01{
+    position: absolute;
+    top: 2125px;
+    left: 235px;
+}
+
+
+.wbt02{
+    position: absolute;
+    top: 2125px;
+    left: 779px;
+}
+
+
+.wbt03{
+    position: absolute;
+    top: 2125px;
+    left: 1258px;
+}
+
+
+.wbt04{
+    position: absolute;
+    top: 3398px;
+    left: 235px;
+}
+
+
+.wbt05{
+    position: absolute;
+    top: 3414px;
+    left: 780px;
+}
+
+.wbt06{
+    position: absolute;
+    top: 3471px;
+    left: 1253px;
+}
+
+
+.wbt07{
+    position: absolute;
+    top: 4701px;
+    left: 235px;
+}
+
+
+.wbt08{
+    position: absolute;
+    top: 4142px;
+    left: 780px;
+}
+
+
+.wbt09{
+    position: absolute;
+    top: 4258px;
+    left: 1252px;
+}
+
+
+.wbt10{
+    position: absolute;
+    top: 5622px;
+    left: 235px;
+}
+
+
+.wbt11{
+    position: absolute;
+    top: 5452px;
+    left: 1006px;
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* sub3 시작 */
+
+
+
+.m03_01{
+    position: absolute;
+    top: 91px;
+    left: 1263px;
+}
+
+.m03_02{
+    position: absolute;
+    top: 91px;
+    left: 1509px;
+}
+
+.m03_03{
+    position: absolute;
+    top: 91px;
+    left: 1650px;
+}
+
+.p03js01{
+position: absolute;
+top: 308px;
+left: 212px;
+
+}
+
+.p03sq01{
+    position: absolute;
+    top: 254px;
+    left: 476px;
+        
+}
+.p03sq02{
+    position: absolute;
+    top: 834px;
+    left: 577px;
+        
+}
+.p03js02{
+    position: absolute;
+    top: 721px;
+    left: 195px;
+       
+}
+.p03_js03{
+    position: absolute;
+    top: 1363px;
+    left: 205px;
+}
+
+.p03_js04{
+    position: absolute;
+    top: 4234px;
+    left: 0px;
+}
+.p03_js05{
+    position: absolute;
+    top: 2171px;
+    
+}
+.p03txt01{
+    width: 1514px;
+    height: 492px;
+    position: absolute;
+    top: 1529px;
+    left: 203px;
+    font-size: 35px;
+    font-family: 'Pretendard-Regular';
+    color: #3C434D;
+    font-weight: 100;
+    line-height: 50px;
+    text-align: center;
+    
+    } 
+    
+    .p03txt02{
+        width: 1514px;
+        height: 98px;
+        position: absolute;
+        
+        top: 3485px;
+      left: 204px;
+        font-size: 80px;
+        font-family: 'Pretendard-Regular';
+       
+        font-weight: bold;
+        line-height: 50px;
+        text-align: center;
+        
+    }
+
+    .p03txt03{
+        width: 1512px;
+        height: 392px;
+        position: absolute;
+        top: 3653px;
+        left: 204px;
+        font-size: 35px;
+        font-family: 'Pretendard-Regular';
+        color: #3C434D;
+        font-weight: 100;
+        line-height: 50px;
+        text-align: center;
+        
+    }
+
+.p03js99{
+    position: absolute;
+    top: 5258px;
+}
